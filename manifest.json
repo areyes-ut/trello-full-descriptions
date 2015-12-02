@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Trello Full Card Descriptions",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Always show full card descriptions in Trello",
   "author": "alex-ut",
   "homepage_url": "https://github.com/alex-ut/trello-full-descriptions",
