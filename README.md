@@ -27,8 +27,6 @@ it.  It does its job automatically whenever Trello cards are opened.
 
 Created by [UserTesting](https://usertesting.com)
 
-![UserTesting](doc/UserTesting.png)
-
 ## Contributing
 
 1. Fork it ( https://github.com/alex-ut/trello-full-descriptions/fork )
